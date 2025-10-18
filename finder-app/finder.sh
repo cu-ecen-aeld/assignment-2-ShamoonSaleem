@@ -1,5 +1,5 @@
 #!/bin/sh
-# Script for assignment 1
+# Script for assignment 2
 # Author: Muhammad Shamoon Saleem
 
 

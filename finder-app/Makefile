@@ -1,3 +1,5 @@
+# Author: Muhammad Shamoon Saleem
+
 # compiler to use
 CROSS_COMPILE ?= aarch64-none-linux-gnu-gcc
 CC = gcc
